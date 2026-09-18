@@ -13,7 +13,6 @@
 
 ## Projects
 !LogoDesign1(2026-BRAND-BOOK-2026-ZHASMIN-GIMALOVA -(1)_BrandB-01-01 copy.png)
-![Smash
 
 
 ##### Skills
