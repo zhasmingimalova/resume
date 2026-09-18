@@ -32,11 +32,8 @@
 ## Transferable skills 
 
 -Creative problem-solving  
-
 -Visual communication  
-
 -Attention to detail  
-
 -Time management  
 -Project coordination  
 -Client communication  
