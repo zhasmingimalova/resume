@@ -29,23 +29,26 @@
 - Figma 
 - Digital design
 
-### Transferable skills 
+## Transferable skills 
 
-*Creative problem-solving  
-*Visual communication  
-*Attention to detail  
-*Time management  
-*Project coordination  
-*Client communication  
-*Presentation skills  
-*Active listening
+-Creative problem-solving  
+-Visual communication  
+-Attention to detail  
+-Time management  
+-Project coordination  
+-Client communication  
+-Presentation skills  
+-Active listening
 
-##### Experience section
+## Experience section
 
 Freelance Graphic Designer
 Remote | 2025–2026  
+
 -Designed logos, social content, and marketing materials.
+
 -Collaborated with clients from concept to final delivery.
+
 -Delivered polished designs that supported client growth.
 
 ## Contact Me
