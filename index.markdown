@@ -5,7 +5,7 @@
 
 ### www.linkedin.com/in/zhasmin-gimalova-276741328
 ### Phone number: 12345678910
-### Portfolio Link: <in progress>
+### Portfolio Link: < in progress >
 
 ### Professional summary
 
