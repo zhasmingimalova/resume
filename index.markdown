@@ -13,8 +13,8 @@
 
 ## Projects
 ![LogoDesign1](2026-BRAND-BOOK-2026-ZHASMIN-GIMALOVA-1.png)
-![LogoDesign1]()
-![LogoDesign1](2026-BRAND-BOOK-2026-ZHASMIN-GIMALOVA-3.png)
+![LogoDesign2](2026-BRAND-BOOK-2026-ZHASMIN-GIMALOVA-2.png)
+![LogoDesign3](2026-BRAND-BOOK-2026-ZHASMIN-GIMALOVA-3.png)
 
 
 ##### Skills
