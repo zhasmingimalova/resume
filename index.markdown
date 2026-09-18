@@ -5,7 +5,7 @@
 
 ### www.linkedin.com/in/zhasmin-gimalova-276741328
 ### 12345678910
-### Portfolio link: <...>
+### Portfolio link: <in progress>
 
 #### **Professional**summary
 
@@ -13,6 +13,8 @@
 
 ## Projects
 ![LogoDesign1](2026-BRAND-BOOK-2026-ZHASMIN-GIMALOVA-1.png)
+![LogoDesign1]()
+![LogoDesign1]()
 
 
 ##### Skills
