@@ -3,7 +3,6 @@
 
 ## Graphic / Brand Designer
 
-### zhasmingimalova@gmail.com
 ### www.linkedin.com/in/zhasmin-gimalova-276741328
 ### 12345678910
 ### Portfolio link: <...>
