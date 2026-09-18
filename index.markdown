@@ -32,8 +32,11 @@
 ## Transferable skills 
 
 -Creative problem-solving  
+
 -Visual communication  
+
 -Attention to detail  
+
 -Time management  
 -Project coordination  
 -Client communication  
@@ -43,6 +46,7 @@
 ## Experience section
 
 Freelance Graphic Designer
+
 Remote | 2025–2026  
 
 -Designed logos, social content, and marketing materials.
